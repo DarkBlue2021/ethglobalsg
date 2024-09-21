@@ -41,9 +41,12 @@ Prerequisites:
 (2) Hedera SDK installed (npm install @hashgraph/sdk).
 (3) Testnet or Mainnet access with account credentials (private key and account ID).
 
-
-
 ## Worldcoin Example
+
+Prerequisites:
+(1) Node.js installed.
+(2) API access to World ID (if needed for verification).
+(3) Set up a Worldcoin client app and get your app ID and secret key (if using the official SDK).
 
 ## Chainlink Oracles Example
 
