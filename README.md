@@ -50,6 +50,11 @@ Prerequisites:
 
 ## Chainlink Oracles Example
 
+Prerequisites:
+(1) Solidity installed via Remix or a local development environment (like Hardhat or Truffle).
+(2) Chainlink node or access to Chainlink’s decentralized oracle network.
+(3) Testnet LINK tokens for funding the oracle request (using Kovan, Rinkeby, etc.)
+
 
 
 
