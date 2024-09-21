@@ -31,6 +31,6 @@ Integrates real-world data, such as weather conditions and logistics updates, in
 
 # Presentation
 
-![CP]([./Pictures/CoverPage.png])
+![CP](./Pictures/CoverPage.png)
 
 
