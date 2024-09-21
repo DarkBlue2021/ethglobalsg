@@ -32,5 +32,11 @@ Integrates real-world data, such as weather conditions and logistics updates, in
 # Presentation
 
 ![CP](./Pictures/CoverPage.png)
+![CP](./Pictures/1.Problem.png)
+![CP](./Pictures/2.Solution.png)
+![CP](./Pictures/3.HowItWorks.png)
+![CP](./Pictures/4.Technology.png)
+![CP](./Pictures/5.Market.png)
+![CP](./Pictures/6.BusinessModel.png)
 
 
