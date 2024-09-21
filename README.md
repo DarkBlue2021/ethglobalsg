@@ -27,3 +27,7 @@ Provides decentralized identity (DID) verification for farmers and stakeholders,
 ## Chainlink Oracles
 Integrates real-world data, such as weather conditions and logistics updates, into the blockchain, enabling accurate and reliable execution of smart contracts.
 
+# Presentation
+
+![Cover](./Pictures/HarvestChain.png)
+
