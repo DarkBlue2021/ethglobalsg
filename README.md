@@ -1,3 +1,5 @@
+![Cover](./Pictures/HarvestChain.png)
+
 # HarvestReward
 HarvestReward is a decentralized platform designed to transform the agricultural supply chain using blockchain technology. Built on Hedera Hashgraph, the platform offers secure, transparent, and efficient solutions for farmers, cooperatives, buyers, agribusinesses, and regulators. HarvestReward enables seamless information sharing, product traceability, and automated financial transactions through smart contracts, while fostering sustainability and financial inclusion.
 
@@ -29,5 +31,6 @@ Integrates real-world data, such as weather conditions and logistics updates, in
 
 # Presentation
 
-![Cover](./Pictures/HarvestChain.png)
+![CP](./Pictures/Cover page.png)
+
 
