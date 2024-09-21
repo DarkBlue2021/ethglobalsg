@@ -1,0 +1,41 @@
+{
+	"version": "0.2",
+	"enabled": true,
+	"language": "en-US",
+	"allowCompoundWords": true,
+	"dictionaries": [
+		"typescript",
+		"node",
+		"npm",
+		"html"
+	],
+	"enabledLanguageIds": [
+		"typescript",
+		"typescriptreact",
+		"javascript",
+		"markdown",
+		"yaml",
+		"json"
+	],
+	"words": [
+		"arrayify",
+		"consts",
+		"dfea",
+		"eafc",
+		"esbuild",
+		"hexlify",
+		"idkit",
+		"IDQR",
+		"iife",
+		"keccak",
+		"merkle",
+		"NextJS",
+		"QRCode",
+		"tsup",
+		"TTFB",
+		"viem",
+		"webp",
+		"worldid",
+		"zustand"
+	]
+}
